@@ -1,0 +1,58 @@
+NO:,Name,Programme,Gender,Matric No,Reason For Leaving,Year,Reason_Clean,Faculty,acad_input,prog_input,gend_input,Fuzzy_risk_score,Risk_level
+1,Oluwole David Olaitan,Accounting,Male,DU0995,Low Academic performance,2024/2025,Low Academic Performance,Management,10.0,0.83,7.0,93.33,Critical
+2,Frank Samuel Osuabo ,Biochemistry,Male,DU0622,Low Academic performance,2024/2025,Low Academic Performance,Sciences,10.0,1.67,7.0,93.33,Critical
+3,Alabi Ayanfe Ogooluwa,Biotechnology,Female,DU0999,Transfer to another university,2024/2025,Transfer to Another University,Sciences,5.2,5.83,3.0,51.71,Moderate
+4,Itari-Tew Kendra,Industrial Relations,Female,DU1087,Low Academic performance,2024/2025,Low Academic Performance,Social Sciences,10.0,0.83,3.0,93.33,Critical
+5,Johnson Ayomitide Imobong,Industrial Chemistry,Male,DU0444,Low Academic performance,2024/2025,Low Academic Performance,Sciences,10.0,1.67,7.0,93.33,Critical
+6,Butt David Voice,Computer Science,Male,DU0984,Suspended,2024/2025,Suspended from University,Computing,7.2,10.0,7.0,77.99,High
+7,Clement Chukwuebuka Pastor,Computer Science,Male,DU0998,Transfer to another university,2024/2025,Transfer to Another University,Computing,5.2,10.0,7.0,73.33,High
+8,Itari-Tew Kelly ,Cyber Security,Male,DU1088,Low Academic performance,2024/2025,Low Academic Performance,Computing,10.0,8.33,7.0,80.69,Critical
+9,Adaramola Saviour Adewale,Cyber Security,Male,DU0891,Low Academic performance,2024/2025,Low Academic Performance,Computing,10.0,8.33,7.0,80.69,Critical
+10,Adenuga Adedayo Adeyemi,Cyber Security,Male,DU1056,Low Academic performance,2024/2025,Low Academic Performance,Computing,10.0,8.33,7.0,80.69,Critical
+11,Ajayi Nathaniel Anozie,Mass Communication,Male,DU0945,Low Academic performance,2024/2025,Low Academic Performance,Arts,10.0,2.5,7.0,93.33,Critical
+12,Oyewole Christopher Oyeleke,Microbiology,Male,DU0928,Low Academic performance,2024/2025,Low Academic Performance,Sciences,10.0,3.33,7.0,93.33,Critical
+13,Oyinbo Praise Osememe,Microbiology,Female,DU1152,Transfer to another university,2024/2025,Transfer to Another University,Sciences,5.2,3.33,3.0,42.89,Moderate
+14,Undiyaudeye Benedict Unimke,Nursing,Male,DU1095,Low Academic performance,2024/2025,Low Academic Performance,Sciences,10.0,8.33,7.0,80.69,Critical
+15,Adeniyi Toluwani Esther,Nursing,Female,DU1119,Immigrated to another country,2024/2025,Immigrated to Another Country,Sciences,2.1,8.33,3.0,42.7,Moderate
+16,Akinwande Faithful Adekunle,Nursing,Male,DU1066,Transfer to another university,2024/2025,Transfer to Another University,Sciences,5.2,8.33,7.0,57.01,Moderate
+17,Thompson Daniel,Cyber Security,Male,DU1058,Low Academic performance,2024/2025,Low Academic Performance,Computing,10.0,8.33,7.0,80.69,Critical
+18,Ejiwe Marvellous Ngozi,Nursing,Female,DU1142,Transfer to another university,2024/2025,Transfer to Another University,Sciences,5.2,8.33,3.0,56.3,Moderate
+19,Aligbodu Priscilla Ngozi,Nursing,Female,DU1153,Transfer to another university,2024/2025,Transfer to Another University,Sciences,5.2,8.33,3.0,56.3,Moderate
+20,Clement Chukwuebuka Pastor,Computer Science,Male,DU0998,Transfer to another university,2024/2025,Transfer to Another University,Computing,5.2,10.0,7.0,73.33,High
+21,Butt david voice,Computer Science,Male,DU0984,Suspended from the University,2024/2025,Suspended from University,Computing,7.2,10.0,7.0,77.99,High
+22,Alabi ayanfe,Biotechnology,Female,DU0999,Transfer to another university,2024/2025,Transfer to Another University,Sciences,5.2,5.83,3.0,51.71,Moderate
+23,Gbadebo Adeshina Isaac,Biotechnology,Male,Du0831,Transfer To Another University,2023/2024,Transfer to Another University,Sciences,5.2,5.83,7.0,57.16,Moderate
+24,Kalu Destiny Uchechukwu,Biotechnology,Male,Du0686,Low Academic Performance,2023/2024,Low Academic Performance,Sciences,10.0,5.83,7.0,83.78,Critical
+25,Alemeru Oluwatimileyin,Computer Science,Male,Du0475,Low Academic Performance,2023/2024,Low Academic Performance,Computing,10.0,10.0,7.0,80.35,Critical
+26,Babalola Anu Mark,Computer Science,Male,Du0635,Low Academic Performance,2023/2024,Low Academic Performance,Computing,10.0,10.0,7.0,80.35,Critical
+27,"Uwaje, Rita Oluwafisola",Criminology,Male,Du0878,Transfer To Another University,2023/2024,Transfer to Another University,Social Sciences,5.2,4.17,7.0,59.01,Moderate
+28,Makinde Muyiwa Ibrahim,Cyber Security,Male,Du0793,Low Academic Performance,2023/2024,Low Academic Performance,Computing,10.0,8.33,7.0,80.69,Critical
+29,Okunbor Aisosa Solomon,Cyber Security,Male,Du0505,Low Academic Performance,2023/2024,Low Academic Performance,Computing,10.0,8.33,7.0,80.69,Critical
+30,Mustapha Titilayo Aishat,Mass Communication,Female,Du0892,Transfer To Another University,2023/2024,Transfer to Another University,Arts,5.2,2.5,3.0,42.77,Moderate
+31,Osain Rokeebat Omodasola,Biochemistry,Female,Du0893,Suspended`,2023/2024,Suspended from University,Sciences,7.2,1.67,3.0,91.9,Critical
+32,Ojo Oluwagbohunmi,Criminology,Female,Du0807,Transfer To Another University,2023/2024,Transfer to Another University,Social Sciences,5.2,4.17,3.0,43.2,Moderate
+33,Anwo Emmanuel,Criminology,Male,Du0668,Suspended From The University,2023/2024,Suspended from University,Social Sciences,7.2,4.17,7.0,91.57,Critical
+34,Oladiran Cynthia,Criminology,Female,Du0910,Low Academic Performance,2023/2024,Low Academic Performance,Social Sciences,10.0,4.17,3.0,93.1,Critical
+35,Johnson Ayomitide Imobong,Industrial Chemistry,Male,DU0444,Low Academic performance,2023/2024,Low Academic Performance,Sciences,10.0,1.67,7.0,93.33,Critical
+36,Butt David Voice,Computer Science,Male,DU0984,Suspended,2023/2024,Suspended from University,Computing,7.2,10.0,7.0,77.99,High
+37,Clement Chukwuebuka Pastor,Computer Science,Male,DU0998,Transfer to another university,2023/2024,Transfer to Another University,Computing,5.2,10.0,7.0,73.33,High
+38,Itari-Tew Kelly ,Cyber Security,Male,DU1088,Low Academic performance,2023/2024,Low Academic Performance,Computing,10.0,8.33,7.0,80.69,Critical
+39,Adaramola Saviour Adewale,Cyber Security,Male,DU0891,Low Academic performance,2023/2024,Low Academic Performance,Computing,10.0,8.33,7.0,80.69,Critical
+40,Adenuga Adedayo Adeyemi,Cyber Security,Male,DU1056,Low Academic performance,2023/2024,Low Academic Performance,Computing,10.0,8.33,7.0,80.69,Critical
+41,Ajayi Nathaniel Anozie,Mass Communication,Male,DU0945,Low Academic performance,2023/2024,Low Academic Performance,Arts,10.0,2.5,7.0,93.33,Critical
+42,Oyewole Christopher Oyeleke,Microbiology,Male,DU0928,Low Academic performance,2023/2024,Low Academic Performance,Sciences,10.0,3.33,7.0,93.33,Critical
+43,Oyinbo Praise Osememe,Microbiology,Female,DU1152,Transfer to another university,2023/2024,Transfer to Another University,Sciences,5.2,3.33,3.0,42.89,Moderate
+44,Undiyaudeye Benedict Unimke,Nursing,Male,DU1095,Low Academic performance,2023/2024,Low Academic Performance,Sciences,10.0,8.33,7.0,80.69,Critical
+45,Adeniyi Toluwani Esther,Nursing,Female,DU1119,Immigrated to another country,2023/2024,Immigrated to Another Country,Sciences,2.1,8.33,3.0,42.7,Moderate
+46,Akinwande Faithful Adekunle,Nursing,Male,DU1066,Transfer to another university,2023/2024,Transfer to Another University,Sciences,5.2,8.33,7.0,57.01,Moderate
+47,Thompson Daniel,Cyber Security,Male,DU1058,Low Academic performance,2023/2024,Low Academic Performance,Computing,10.0,8.33,7.0,80.69,Critical
+48,Ejiwe Marvellous Ngozi,Nursing,Female,DU1142,Transfer to another university,2023/2024,Transfer to Another University,Sciences,5.2,8.33,3.0,56.3,Moderate
+49,Aligbodu Priscilla Ngozi,Nursing,Female,DU1153,Transfer to another university,2023/2024,Transfer to Another University,Sciences,5.2,8.33,3.0,56.3,Moderate
+50,Clement Chukwuebuka Pastor,Computer Science,Male,DU0998,Transfer to another university,2023/2024,Transfer to Another University,Computing,5.2,10.0,7.0,73.33,High
+51,Butt david voice,Computer Science,Male,DU0984,Suspended from the University,2023/2024,Suspended from University,Computing,7.2,10.0,7.0,77.99,High
+52,Alabi ayanfe,Biotechnology,Female,DU0999,Transfer to another university,2023/2024,Transfer to Another University,Sciences,5.2,5.83,3.0,51.71,Moderate
+53,Gbadebo Adeshina Isaac,Biotechnology,Male,DU0831,Transfer To Another University,2023/2024,Transfer to Another University,Sciences,5.2,5.83,7.0,57.16,Moderate
+54,Kalu Destiny Uchechukwu,Biotechnology,Male,DU0686,Low Academic Performance,2023/2024,Low Academic Performance,Sciences,10.0,5.83,7.0,83.78,Critical
+55,Alemeru Oluwatimileyin,Computer Science,Male,DU0475,Low Academic Performance,2023/2024,Low Academic Performance,Computing,10.0,10.0,7.0,80.35,Critical
+56,Babalola Anu Mark,Computer Science,Male,DU0635,Low Academic Performance,2023/2024,Low Academic Performance,Computing,10.0,10.0,7.0,80.35,Critical
+57,"Ezeugo, Angelica Phoebe",Criminology,Female,DU0480,Low Academic Performance,2023/2024,Low Academic Performance,Social Sciences,10.0,4.17,3.0,93.1,Critical
